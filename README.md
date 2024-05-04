@@ -103,4 +103,12 @@ alert message, and a vibration motor will generate haptic feedback on the
 steering. 
 With the help of this mechanism ,the driver willl snap out from hypnosis 
 or drowsinees state ,overall it will  heightened awareness and it will 
-create a safer environment for driver ,passsenger and the family. 
+create a safer environment for driver ,passsenger and the family.
+
+
+
+
+
+
+
+
