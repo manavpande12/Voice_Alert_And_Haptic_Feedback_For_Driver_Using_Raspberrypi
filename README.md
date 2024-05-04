@@ -1,1 +1,68 @@
 # Voice_Alert_And_Haptic_Feedback_For_Driver_Using_Raspberrypi
+![IMG-20231223-WA0019](https://github.com/manavpande12/Voice_Alert_And_Haptic_Feedback_For_Driver_Using_Raspberrypi/assets/143897253/83dbf640-eb71-4f70-b904-e83d786ba3da)
+
+
+
+
+
+
+
+Library To Install 
+1. OpenCV:-  
+• https://youtu.be/QRe0QzS079s?si=YWvUTqrfQ48OACs7
+
+• https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html 
+
+3. Dlib:-   
+• https://youtu.be/uF4aDdxBm_M?si=iCCw4UM3ZvNQoVK-
+
+• sudo nano /etc/dphys-swapfile  
+• sudo /etc/init.d/dphys-swapfile stop  
+• sudo /etc/init.d/dphys-swapfile start  
+• free -m  
+• sudo raspi-config  
+• sudo apt-get update  
+• sudo apt-get install build-essential cmake  
+• sudo apt-get install libgtk-3-dev  
+• sudo apt-get install libboost-all-dev  
+• wget https://bootstrap.pypa.io/get-pip.py  
+• sudo python3 get-pip.py  
+• pip3 install numpy  
+• pip3 install dlib
+
+5. Python3 
+6. Imutils 
+7. Pygame 
+8. face_utils 
+9. scipy
+10. Rpi.GPIO:- sudo apt install rpi-gpio-common 
+11. time 
+12. os 
+13. pip3 
+14. numpy 
+
+*Resolution 
+1. 256x144 
+
+*How to Turn On PICAMERA() – sudo libcamera-hello/libcamera-hello 
+1. sudo raspi-config 
+2. On Legacy Camera 
+3. On Full KMS 
+4. ON Glamor 
+5. Then Reboot 
+6. Sudo su 
+7. Sudo nano /boot/config.txt 
+8. #start_x=1 
+9. #camera_auto_detect=1 
+10. Set Gpu_mem= 256 
+
+*How To Set Audio As A Default From Config ? 
+1. sudo nano /etc/asound.conf 
+2. Set Value As Per Port – alsamixer 
+
+• defaults.pcm.card 1 
+
+• defaults.pcm.card 1 
+
+
+
