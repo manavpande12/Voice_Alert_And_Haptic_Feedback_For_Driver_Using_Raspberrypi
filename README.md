@@ -2,9 +2,35 @@
 ![IMG-20231223-WA0019](https://github.com/manavpande12/Voice_Alert_And_Haptic_Feedback_For_Driver_Using_Raspberrypi/assets/143897253/83dbf640-eb71-4f70-b904-e83d786ba3da)
 
 
+*Introduction:
+
+As we have observed in expensive vehicles, 
+the sensors detects drowsiness and stops 
+the vehicle in the middle of the road or find 
+the suitable place to stop the car, in case of 
+high population country like india there is 
+many factor on a road that can’t be 
+detected and in highways if the car stop in 
+middle of road  which is dangerous as 
+another vehicle may collide with it.  
+Therefore, alert system is important to 
+make the driver more alert while driving so 
+the accidents can be prevent.
 
 
+*EQUIPMENT:
 
+• Raspberry Pi  
+
+• Web Camera/PI Camera  
+
+• Speaker 
+
+• Vibration Motor DC 
+
+• Motor Driver L298n 
+
+• Power Supply 
 
 
 Library To Install 
